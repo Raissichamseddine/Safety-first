@@ -98,4 +98,6 @@ router.get('/location/:userId', async (req, res) => {
 });
 
 module.exports = router;
+npm install express mongoose jsonwebtoken bcryptjs cors
+node server.js
 
